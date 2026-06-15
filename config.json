@@ -1,0 +1,6 @@
+{
+    "database_url": "sqlite:///app.db",
+    "jwt_secret": "super-secret-key",
+    "cache_timeout": 300,
+    "service_version": "1.0.0"
+}
